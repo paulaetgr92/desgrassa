@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application Hello Kitty</string>
+    <string name="Hello">String</string>
+    <string name="hello_hell">Hello Hell</string>
+    <string name="hello_world">hello world</string>
+    <string name="hello_angel">hello_Angel</string>
+    <string name="luiz_henrique_brito">Luiz Henrique Brito</string>
+    <string name="nicollas_gomes_rocha">Nicollas Gomes Rocha</string>
+    <string name="paula_entringer">Paula Entringer</string>
+    <string name="flavia_pereira">Flavia Pereira</string>
+    <string name="igor_nery">Igor Nery</string>
+    <string name="come_back_baby">Come back baby</string>
+    <string name="hello_angel_">Hello Angel</string>
+</resources>
